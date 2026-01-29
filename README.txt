@@ -1,10 +1,16 @@
-STEPS TO RUN/ EXECUTE OUR SEARCH ENGINE
+# ZOTCrawler
+A UCI domain-based crawler that traverses through 4 initial seeds and a search engine that has over 700k documents!
 
-1. Run our index creator (~50 minutes):
-    i) python .\invertedIndex.py
-2. Run our search engine!
-    i) python .\main.py
-3. Enter your query!!!
-    i) ASK PETE: <YOUR QUERY>
-4. Choose to run/ not run again:
-    i) ASK AGAIN (y/n): <YOUR CHOICE>
+## Requirements
+- Python 3.12
+- Flask
+- NLTK tokenizer
+
+## Quick start 
+- python searchWebGui.py : web interface
+- python main.py : terminal interface
+
+## Successfully retrieves top 10 links
+![WebGUI](screenshots/brave.png)
+
+
