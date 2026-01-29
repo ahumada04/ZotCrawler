@@ -11,6 +11,6 @@ A UCI domain-based crawler that traverses through 4 initial seeds and a search e
 - python main.py : terminal interface
 
 ## Successfully retrieves top 10 links
-![WebGUI](screenshots/brave.png)
+![WebGUI](screenshots/brave_screenshot.png)
 
 
